@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @danutdotrar
-- 👀 I’m interested in programming, reading, exercising and meditation :)
-- 🌱 I’m currently learning ReactJS, JavaScript, CSS, Python.
+- 👋 Hello, I’m @danutdotrar, a web developer enthusiast :)
+- 👀 I’m interested in programming, reading, exercising and meditation
+- 🌱 I’m currently learning JavaScript, HTML, CSS and React.
 - 💞️ I’m looking to collaborate on different projects to improve my professional skills.
 - 📫 How to reach me: on email, morarasu.danut@gmail.com; on phone, +40745535561
 
