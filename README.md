@@ -7,7 +7,7 @@
 - **Frontend Development:**
   - HTML, CSS, JavaScript, React, Next.js, jQuery
 - **Backend Development:**
-  - Node.js, Express.js, SQL
+  - Node.js, Express.js, SQL, MongoDB
 - **Data Analysis and Visualization:**
   - R
 - **Testing:**
