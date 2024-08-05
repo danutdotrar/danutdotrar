@@ -1,5 +1,6 @@
  👋 Hi, I'm Danut Morarasu!
-- I am an enthusiastic Full-Stack Web Developer with expertise in both front-end and back-end technologies. I am passionate about creating scalable and maintainable web applications and enjoy tackling complex problems. My goal is to continuously learn and implement the latest technologies to build efficient and high-quality applications.
+- I am an enthusiastic Full-Stack Web Developer with expertise in both front-end and back-end technologies. I am passionate about creating scalable and maintainable web applications and enjoy tackling complex problems.
+- My goal is to continuously learn and implement the latest technologies to build efficient and high-quality applications.
 
 ## Skills
 
