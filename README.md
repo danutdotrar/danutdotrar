@@ -18,7 +18,7 @@
   - Docker, CI/CD
 - **TypeScript:**
   - Basics and integration with React
-- - **Data Analysis and Visualization:**
+- **Data Analysis and Visualization:**
   - R
 <!---
 danutdotrar/danutdotrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
