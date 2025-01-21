@@ -8,8 +8,6 @@
   - HTML, CSS, JavaScript, React, Next.js, jQuery
 - **Backend Development:**
   - Node.js, Express.js, SQL, MongoDB
-- **Data Analysis and Visualization:**
-  - R
 - **Testing:**
   - Jest, Playwright
 - **State Management:**
@@ -20,6 +18,8 @@
   - Docker, CI/CD
 - **TypeScript:**
   - Basics and integration with React
+- - **Data Analysis and Visualization:**
+  - R
 <!---
 danutdotrar/danutdotrar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
